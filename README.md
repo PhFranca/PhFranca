@@ -1,9 +1,11 @@
 ## 🌎 Hello world! Meu nome é <strong>Flávio com PH (Phlavio :D)!</strong>
 
-> Atualmente, estou atuando como Consultor do Módulo MM, e tenho como principais tarefas, atendimento de chamados (AMS), correção de problemas (BUGs), debugs, realizo procedimentos estruturados necessários para a execução dos serviços, melhorias e manutenção do ERP SAP módulo MM. Consultoria e suporte (SAP First and Second Level Support) para SAP users e SAP Key-User no SAP módulo MM.
-##
-Curso Ciência da Computação e uma pós-graduação em Engenharia de Software, com previsão para conclusão ao final do ano de 2023. Já sou formado em Logística, e minha última posição, foi como Coordenador de Logística em uma multinacional. Estou me capacitando um pouco mais na linguagen de programação ABAP, para melhorar meu nível como consultor. 
-Sou adepto da educação continuada (Lifelong learning), e de leitura diária. 
+> Sou um entusiasta da tecnologia, atualmente cursando bacharelado em Ciência da Computação e pós-graduação em Engenharia de Software. Tenho uma paixão pela área de desenvolvimento de software e busco constantemente expandir meu conhecimento e habilidades.
+Completei um curso intensivo de Desenvolvedor de Software, com duração de 960 horas, abrangendo front-end, back-end e soft skills. Durante esse curso, participei da entrega de 5 projetos, incluindo um projeto final realizado em equipe, utilizando a metodologia Scrum. Adquiri habilidades em tecnologias como HTML, CSS, JavaScript, React, Node.js, banco de dados SQL, metodologias ágeis e Git.
+Além disso, em andamento, estou estudando para ter o certificado profissional da IBM Full Stack Software Developer, onde estou aprimorando meus conhecimentos em diversas áreas, incluindo cloud computing, desenvolvimento web, Python para ciência de dados e desenvolvimento de aplicativos.
+Para complementar minha formação, fiz um curso de Lógica da Programação, que me proporcionou uma base sólida para resolver problemas de forma eficiente e estruturada.
+Atualmente, atuo como Consultor SAP MM, onde aplico meus conhecimentos e habilidades na área de sistemas empresariais.
+Sou adepto da educação continuada (Lifelong learning), e de leitura diária, e estou sempre em busca de novos desafios e oportunidades de aprendizado para expandir minha expertise como desenvolvedor de software. Se você está procurando alguém comprometido, criativo e motivado para integrar sua equipe, ficarei feliz em conectar-me e discutir possíveis colaborações.
 
 #vamosPraCima!
 
